@@ -11,7 +11,7 @@ testimonial:
 about:
   title: "About the Free Email Course"
   first_paragraph: "<p>Every week, I’ll get at least one email from an early-stage company Founder attempting to sell their innovative product to me. </p><p>It makes me think of the time I started in sales. Although I apparently had a natural talent for it, a lot of my first meetings ended up with prospects who thought the technology I was selling was “interesting” but at the moment, they didn’t have the budget.</p><p>The truth is, there’s a ton of content out there to get your first meeting - as well as a ton of lists and generalizations about what do or not to do in sales. The challenge is, I haven’t found much that’s really actionable, or designed with the founder or early-stage tech executive in mind.</p><p>Over the past five years, my experience in tech sales has ranged from growing sales processes in new verticals from scratch, to closing millions in new enterprise deals with brands like Groupon, JP Morgan Chase and Staples. Over this time I’ve developed a framework that I’ve recently refined called the “Buy-in Framework” which I’ve used to train new sales reps into becoming top sellers like myself. </p><p>In this free 5-day course, I’ll send you a daily email and video to take you through the exact framework I use. We’ll cover:</p>
- <li><strong>Lesson 1:</strong> Solving the #1 mistake Founders make in sales and introducing the Buy-in Framework. </li>
+<li><strong>Lesson 1:</strong> Solving the #1 mistake Founders make in sales and introducing the Buy-in Framework. </li>
 <li><strong>Lesson 2:</strong> How to prime your prospects to buy into you and to making a decision using the Rapport and Agenda Buy-in.</li>
 <li><strong>Lesson 3:</strong> How to get your buyer to see and articulate the value of your product back to you and get them to commit to making a change using the Pain and Change Buy-in.</li>
 <li><strong>Lesson 4:</strong> How and when to start talking about your product and price using the Solution and Investment Buy in. </li>
@@ -29,40 +29,6 @@ about:
 
 <p>Looking forward to hearing about you wasting less time and closing more deals. See you inside. </p>
 "
-  call_to_action: "Sign me up"
-
-learn:
-  title: "In this course you will learn"
-  points:
-    - number: "1"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/idea.png"
-      title: "Have a Killer Idea"
-      description: "How to find a great course idea and evaluate its potential for success before developing any content"
-    - number: "2"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/research.png"
-      title: "Research, Script Writing "
-      description: "Research and script writing techniques that will save you countless hours of production time"
-    - number: "3"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/production.png"
-      title: "Create a High-quality Production"
-      description: "The specific steps and tools you need to create a world-class course that makes an impact"
-    - number: "4"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/marketing.png"
-      title: "Pre-Launch Marketing"
-      description: "The specific landing pages and e-mail campaign copy and guidelines you need to build excitement before your course is ready"
-    - number: "5"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/selling.png"
-      title: "Complete Guide to Selling"
-      description: "The most effective strategies and tactics that Fedora has seen 1000+ courses on its platform employ"
-    - number: "6"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/business.png"
-      title: "Building a Business"
-      description: "Ensuring ridiculously happy students that will tell others about your course and how to create a future digital product pipeline"
-
-signup:
-  title: "Get the free 5-day email course"
-  button: "Sign me up"
-
 
 signup_2:
   title: "Get a free lesson when this course launches"
