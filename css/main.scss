@@ -1,9 +1,10 @@
 ---
 ---
 
-.btn-primary btn-hg {
-  color: #0044b3;
-}
+
+.btn-primary, .btn-primary:focus, .btn-primary:active, .btn-primary[disabled] {
+background: #0044b3;
+border: 1px solid #0044b3;
 
 @import "imports/colors";
 @import "imports/fedora";
