@@ -11,7 +11,7 @@ layout: default
     <meta data-env="production" data-stripe="pk_live_hkgvgSBxG4TAl3zGlXiB1KUX" id="fedora-keys" />
     <meta content="authenticity_token" name="csrf-param" />
     <meta content="wv5oGT590cwxuhWM7Js5EQyJV2xSE97Tb0SN0gTe2qs=" name="csrf-token" />
-    <link rel="shortcut icon" href="https://s3-us-west-2.amazonaws.com/static-css-assets/icons/favicons/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="" type="image/x-icon">
     <link rel="icon" href="https://s3-us-west-2.amazonaws.com/static-css-assets/icons/favicons/favicon.ico" type="image/x-icon">
     <title>Million Dollar Instructor</title>
     <meta content="" name="description" />
@@ -112,22 +112,6 @@ background-position: center !important;">
 
         <div class="row">
             <div class="col-sm-6 col-sm-offset-3">
-                <table class="table">
-                  <thead>
-                    <tr>
-                      <th>Month</th>
-                      <th>Revenue</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {% for income in site.data.homepage.about.income_table %}
-                        <tr>
-                          <td>{{ income.month }}</td>
-                          <td class="amount">{{ income.income }}</td>
-                        </tr>
-                    {% endfor %}
-                  </tbody>
-                </table>
             </div>
         </div><br>
 
@@ -187,22 +171,6 @@ background-position: center !important;">
         </form>
 
       </div>
-  </div>
-</div>
-
-<!-- A Letter From -->
-<div class="letter-row description-row">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-8 col-sm-10 col-xs-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1 col-xs-offset-1">
-        <img class="large-img-rounded img-responsive" src="{{site.data.homepage.letter.image}}">
-        <h2 class="section-title">{{site.data.homepage.letter.title}}</h2>
-        <h3 class="letter-title">{{site.data.homepage.letter.subtitle}}</h3>
-        {% for each in site.data.homepage.letter.contents %}
-        <p>{{ each.paragraph }}</p>
-        {% endfor %}
-      </div>
-    </div>
   </div>
 </div>
 
