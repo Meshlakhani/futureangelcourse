@@ -1,31 +1,37 @@
 hero:
   image: "https://dcavozvb40vtt.cloudfront.net/api/file/L0Nzsl1GRfSB6mTLdGhw"
-  heading: "The Free 5-Day Email Sales Crash Course for Startups"
+  heading: "The Free 5-Day Email Sales Course for Startups"
   subtitle: "A new sales framework developed for tech founders and early-stage execs"
 
 testimonial:
   quote: "After making $1M reaching over 100,000 students with our online courses since April this year, we decided to partner with the online course hosting tool <a href='http://usefedora.com/?src=mdi-quote' target='_blank'>Fedora</a>, to develop a comprehensive course to how anyone can start from ground zero, which is where we began, to profit from their own online course."
-  person: "<strong>Eliot Arntz</strong>, <em>Co-Founder at Online School, Bitfountain.io</a></em>"
-  image: "https://d2vvqscadf4c1f.cloudfront.net/SiIUb8dRiqltbq6VVtDT_93f1547d32a37b972ec733e65c2d63e4.jpeg"
+  person: "<strong>Juliana Crispo</strong>, <em>Director of Enterprise Sales at Ghostery</a></em>"
+  image: "https://dcavozvb40vtt.cloudfront.net/api/file/TZg28hnAQQeqdN0V9A4j"
 
 about:
-  title: "About the Free Email Course"
+  title: "About the Sales Course"
   first_paragraph: "<p>Every week, I’ll get at least one email from an early-stage company Founder attempting to sell their innovative product to me. </p>
   <p>It makes me think of the time I started in sales. Although I apparently had a natural talent for it, a lot of my first meetings ended up with prospects who thought the technology I was selling was “interesting” but at the moment, they didn’t have the budget.</p>
   <p>The truth is, there’s a ton of content out there to get your first meeting - as well as a ton of lists and generalizations about what do or not to do in sales. The challenge is, I haven’t found much that’s really actionable, or designed with the founder or early-stage tech executive in mind.</p>
   <p>Over the past five years, my experience in tech sales has ranged from growing sales processes in new verticals from scratch, to closing millions in new enterprise deals with brands like Groupon, JP Morgan Chase and Staples. Over this time I’ve developed a framework that I’ve recently refined called the “Buy-in Framework” which I’ve used to train new sales reps into becoming top sellers like myself. </p>
   <p>In this free 5-day course, I’ll send you a daily email and video to take you through the exact framework I use. We’ll cover:</p>
-<li><strong>Lesson 1:</strong> Solving the #1 mistake Founders make in sales and introducing the Buy-in Framework. </li>
-<li><strong>Lesson 2:</strong> How to prime your prospects to buy into you and to making a decision using the Rapport and Agenda Buy-in.</li>
+<li><strong>Lesson 1:</strong>  </li>
+<li><strong>Lesson 2:</strong> </li>
 <li><strong>Lesson 3:</strong> How to get your buyer to see and articulate the value of your product back to you and get them to commit to making a change using the Pain and Change Buy-in.</li>
 <li><strong>Lesson 4:</strong> How and when to start talking about your product and price using the Solution and Investment Buy in. </li>
 <li><strong>Lesson 5:</strong> How to avoid deal breakers and shorten your sales cycle using the Process and Decision Buy in. </li>
 
 
 <div class='point col-sm-4'>
-    <div class='point-number'>3</div>
-    <div class='point-title'>Have a Killer Idea</div>
-    <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
+    <div class='point-number'>1</div>
+    <div class='point-title'>Lesson 1</div>
+    <div class='point-description'>Solving the #1 mistake Founders make in sales and introducing the Buy-in Framework.</div>
+</div>
+
+<div class='point col-sm-4'>
+    <div class='point-number'>2</div>
+    <div class='point-title'>Lesson 2</div>
+    <div class='point-description'>How to prime your prospects to buy into you and to making a decision using the Rapport and Agenda Buy-in.</div>
 </div>
 
 <div class='point col-sm-4'>
@@ -35,25 +41,19 @@ about:
 </div>
 
 <div class='point col-sm-4'>
-    <div class='point-number'>3</div>
+    <div class='point-number'>4</div>
     <div class='point-title'>Have a Killer Idea</div>
     <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
 </div>
 
 <div class='point col-sm-4'>
-    <div class='point-number'>3</div>
+    <div class='point-number'>5</div>
     <div class='point-title'>Have a Killer Idea</div>
     <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
 </div>
 
 <div class='point col-sm-4'>
-    <div class='point-number'>3</div>
-    <div class='point-title'>Have a Killer Idea</div>
-    <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
-</div>
-
-<div class='point col-sm-4'>
-    <div class='point-number'>3</div>
+    <div class='point-number'>6</div>
     <div class='point-title'>Have a Killer Idea</div>
     <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
 </div>
