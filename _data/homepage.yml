@@ -47,7 +47,7 @@ about:
 </div>
 
 <div class='point col-sm-4'>
-    <div class='point-number'>5</div>
+    <div class='point-number'>6</div>
     <div class='point-title'>Bonus Lesson</div>
     <div class='point-description'>The linkedin advertising sales hack I've experimented with which shows awesome early results.</div>
 </div>
@@ -66,11 +66,11 @@ about:
 "
 
 signup:
-  button: "Sign me up"
+  button: "Get the free course"
 
 signup_2:
-  title: "Get a free lesson when this course launches"
-  button: "Sign me up"
+  title: "Join up to get the free 5-day email course"
+  button: "Get the free course"
 
 faq:
   title: "Frequently Asked Questions"
