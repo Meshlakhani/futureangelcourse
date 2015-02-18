@@ -1,97 +1,88 @@
 hero:
   image: "https://dcavozvb40vtt.cloudfront.net/api/file/L0Nzsl1GRfSB6mTLdGhw"
-  heading: "The Free 5-Day Email Sales Crash Course for Startups"
-  subtitle: "A new sales framework developed for tech founders and early-stage execs"
+  heading: "THE FREE 5-DAY SALES COURSE FOR FOUNDERS"
+  subtitle: "Learn the framework and psychological hacks used by top sellers"
 
 testimonial:
-  quote: "After making $1M reaching over 100,000 students with our online courses since April this year, we decided to partner with the online course hosting tool <a href='http://usefedora.com/?src=mdi-quote' target='_blank'>Fedora</a>, to develop a comprehensive course to how anyone can start from ground zero, which is where we began, to profit from their own online course."
-  person: "<strong>Eliot Arntz</strong>, <em>Co-Founder at Online School, Bitfountain.io</a></em>"
-  image: "https://d2vvqscadf4c1f.cloudfront.net/SiIUb8dRiqltbq6VVtDT_93f1547d32a37b972ec733e65c2d63e4.jpeg"
+  quote: "After developing sales processes in new verticals from scratch and closing millions in new business with brands like Groupon, JP Morgan Chase and Staples I've created the Buy-in Framework, a practical process I've designed to train you to sell faster and in more repeatable way. Looking forward to teaching you what some of my students call 'jedi' skills over the next week. "
+  person: "<strong>Juliana Crispo</strong>, <em>Director of Enterprise Sales at Ghostery</a></em>"
+  image: "https://dcavozvb40vtt.cloudfront.net/api/file/TZg28hnAQQeqdN0V9A4j"
 
 about:
-  title: "About the Free Email Course"
-  first_paragraph: "<p>Every week, I’ll get at least one email from an early-stage company Founder attempting to sell their innovative product to me. </p>
-  <p>It makes me think of the time I started in sales. Although I apparently had a natural talent for it, a lot of my first meetings ended up with prospects who thought the technology I was selling was “interesting” but at the moment, they didn’t have the budget.</p>
-  <p>The truth is, there’s a ton of content out there to get your first meeting - as well as a ton of lists and generalizations about what do or not to do in sales. The challenge is, I haven’t found much that’s really actionable, or designed with the founder or early-stage tech executive in mind.</p>
-  <p>Over the past five years, my experience in tech sales has ranged from growing sales processes in new verticals from scratch, to closing millions in new enterprise deals with brands like Groupon, JP Morgan Chase and Staples. Over this time I’ve developed a framework that I’ve recently refined called the “Buy-in Framework” which I’ve used to train new sales reps into becoming top sellers like myself. </p>
-  <p>In this free 5-day course, I’ll send you a daily email and video to take you through the exact framework I use. We’ll cover:</p>
-<li><strong>Lesson 1:</strong> Solving the #1 mistake Founders make in sales and introducing the Buy-in Framework. </li>
-<li><strong>Lesson 2:</strong> How to prime your prospects to buy into you and to making a decision using the Rapport and Agenda Buy-in.</li>
-<li><strong>Lesson 3:</strong> How to get your buyer to see and articulate the value of your product back to you and get them to commit to making a change using the Pain and Change Buy-in.</li>
-<li><strong>Lesson 4:</strong> How and when to start talking about your product and price using the Solution and Investment Buy in. </li>
-<li><strong>Lesson 5:</strong> How to avoid deal breakers and shorten your sales cycle using the Process and Decision Buy in. </li>
-
+  title: "Behind the scenes.."
+  first_paragraph: "<p>Every week, I’ll get at least one email from a Founder attempting to sell me on their innovative product. </p>
+  <p>It makes me think of the time I started in sales. Although my Managers said I apparently had a natural talent for it, a lot of my first meetings ended up with prospects who thought the technology I was selling was 'interesting' but at the moment, didn’t have the budget for it.</p>
+  <p>There’s a ton of content out there on how to get your first meeting - as well as a ton of lists and generalizations about what do or not to do in sales. The challenge is, I haven’t found much that’s really actionable, or designed with the founder or early-stage tech executive in mind.</p>
+  <p>Over the past five years, my experience has ranged from growing sales processes in new verticals from scratch, to closing millions in new enterprise deals with brands like Groupon, JP Morgan Chase and Staples. Over this time I’ve built and trained teams to become top sellers like myself using a systematic process I’ve recently refined called the 'Buy-in Framework': </p>
+  <p><img src='https://dcavozvb40vtt.cloudfront.net/api/file/pgMGHrryTye6GjLF0jPv'</p>
+  <p>In this free 5-day course, I’ll send you a daily email to take you through this exact methodology. We’ll cover:</p>
 
 <div class='point col-sm-4'>
-    <div class='point-number'>3</div>
-    <div class='point-title'>Have a Killer Idea</div>
-    <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
+    <div class='point-number'>1</div>
+    <div class='point-title'>Lesson 1</div>
+    <div class='point-description'>Solving the #1 mistake Founders make in sales and introducing the Buy-in Framework.</div>
+</div>
+
+<div class='point col-sm-4'>
+    <div class='point-number'>2</div>
+    <div class='point-title'>Lesson 2</div>
+    <div class='point-description'>How to prime your prospects to buy into you and to making a decision using the Rapport and Agenda Buy-in.</div>
 </div>
 
 <div class='point col-sm-4'>
     <div class='point-number'>3</div>
-    <div class='point-title'>Have a Killer Idea</div>
-    <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
+    <div class='point-title'>Lesson 3</div>
+    <div class='point-description'>How to get your buyer to see and articulate the value of your product back to you and get them to commit to making a change using the Pain and Change Buy-in.</div>
 </div>
 
 <div class='point col-sm-4'>
-    <div class='point-number'>3</div>
-    <div class='point-title'>Have a Killer Idea</div>
-    <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
+    <div class='point-number'>4</div>
+    <div class='point-title'>Lesson 4</div>
+    <div class='point-description'>How and when to start talking about your product and price using the Solution and Investment Buy in.</div>
 </div>
 
 <div class='point col-sm-4'>
-    <div class='point-number'>3</div>
-    <div class='point-title'>Have a Killer Idea</div>
-    <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
+    <div class='point-number'>5</div>
+    <div class='point-title'>Lesson 5</div>
+    <div class='point-description'>How to avoid deal breakers and shorten your sales cycle using the Process and Decision Buy in.</div>
 </div>
 
 <div class='point col-sm-4'>
-    <div class='point-number'>3</div>
-    <div class='point-title'>Have a Killer Idea</div>
-    <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
+    <div class='point-number'>6</div>
+    <div class='point-title'>Bonus Lesson</div>
+    <div class='point-description'>The linkedin advertising sales hack I've experimented with which shows awesome early results.</div>
 </div>
-
-<div class='point col-sm-4'>
-    <div class='point-number'>3</div>
-    <div class='point-title'>Have a Killer Idea</div>
-    <div class='point-description'>How to find a great course idea and evaluate its potential for success before developing any content</div>
-</div>
-
 
 <p>Hiring top talent, raising financing, closing a deal or even convincing someone to date you all use your natural sales skills whether you know it or not. </p>
+<p>I’m sure you've been successful with many or all of these activities - but have you ever stopped to methodically break down why you got to the result you wanted? Further, have you taken the time to investigate what’s made you get to a desired outcome versus not, and how much business could you be unknowingly losing in the process? </p>
+<p>After you sign up below and over a period of 5 days, I’ll walk you through a practical framework that’s backed by millions of dollars in signed deals and modern psychological principles that will get you and your team to think more methodically about sales. </p>
+<p>It’s an abridged version of a $499 <a href='http://startupsalesbootcamp.com/?src=buyin-landingpage'>full-day educational program for startups</a> I just started teaching in New York City, which has started with some rave reviews </p>
 
-<p>I’m sure many of you have been successful with many or all of these activities - but have you ever stopped to methodically break down why you got to the result you wanted? Further, have you taken the time to investigate what’s made you get to a desired outcome versus not, and how much business could you be unknowingly losing in the process? </p>
+<p><strong>Recent student</strong> Executive with 20-Years sales experience in commercial furniture launching a new commercial office space design software.</p>
+<p> <img src='https://dcavozvb40vtt.cloudfront.net/api/file/BsYbkHvJTupwnWDbcUqd'</p>
 
-<p>Over the next 5 days, I’ll walk you through a practical framework that’s backed up by millions of dollars in signed deals and modern psychological principles that will start making you and your team start to think methodically about sales. </p>
-
-<p>It’s an abridged version of a $499 educational program I’m teaching in New York City, which has already received rave reviews. </p>
-
-[Insert review]
+<p><strong>Recent student</strong> and Founder of a 30-person dev shop launching a new content aggregation product with large government clients</p>
+<p> <img src='https://dcavozvb40vtt.cloudfront.net/api/file/QoIB5xowTpGO6rV9VtMB'</p>
 
 <p>Looking forward to hearing about you wasting less time and closing more deals. See you inside. </p>
 "
 
 signup:
-  button: "Sign me up"
+  button: "Get the free course"
 
 signup_2:
-  title: "Get a free lesson when this course launches"
-  button: "Sign me up"
+  title: "Join up to get the free 5-day email sales course for founders"
+  button: "Get the free course"
 
 faq:
-  title: "Frequently Asked Questions"
+  title: "Questions?"
   qa:
-    - question: "Is this course applicable for people that are already teaching online?"
-      answer: "Absolutely. In fact, if you are already teaching online, chances are you'd be able to recoup your investment in this course in a matter of days by following some of the more advanced marketing strategies discussed. Even experienced course creators will be able to benefit from some of the production hacks shared by Bitfountain - in addition, to the marketing knowledge of course."
-    - question: "How much does this course cost?"
-      answer: "We have not determined pricing yet - but it will likely be around $100 for a limited time after launch."
-    - question: "When will this course open?"
-      answer: "We're looking to launch the course for a couple of days around December 15th. After opening enrollments for a couple of days, we are going to focus on helping the students inside the course achieve results. Based on how much time we have to invest, we may open up sign ups again in the future. To ensure you don't miss out on a spot, write a note to watch your email around December 15th. "
-    - question: "Is there any specialized equipment that I will need?"
-      answer: "While technically all you need to launch your course will be an internet connection, laptop and mic, as your business grows we'll walk you through using the specific recording equiptment we've used to create high-quality productions. Additionally, all the software products discussed in the course such as Fedora, ConvertKit and SumoMe will be available as a free bonus to anyone who purchases the course."
-    - question: "What is the refund policy?"
-      answer: "If you are unhappy with the course for absolutely any reason 30 days after purchase, we'll refund 100% of your money without asking any questions."
+    - question: "Can I get more background on Juliana?"
+      answer: "Absolutely. Juliana Crispo is Director of Enterprise Sales at <a href='https://www.crunchbase.com/organization/ghostery'>Ghostery</a> in New York City. While there, Juliana has opened up new verticals in the financial space, and worked with her team to quickly close accounts with almost half of top 25 ecommerce brands. <br> <br>Juliana has worked in a variety of sales roles at growth startups such as <a href='https://www.crunchbase.com/organization/meltwater'>Meltwater Group</a>, where she consistently ranked as a top 5 contributor out of over 600 sales people. While there, she hired, trained and managed new salespeople into top sellers. <br> <br>Juliana's background ranges from developing the sales process in new verticals from scratch, to closing millions in new business with brands like Groupon, JP Morgan Chase and Staples. She's used this experience to develop a framework to help startups more quickly develop a repeatable sales process."
+    - question: "Can you tell me more about the Buy-in Framework? How hard is it to learn and apply?"
+      answer: "The Buy-in Framework is a methodological process of 'buy ins' that I believe should be explicitly made and repeated in effective sales conversations. I've taught earlier versions of this framework to newly hired reps who I've trained to top performers, and believe you can use the same techniques to waste less time, close more deals as well as more quickly understand why a deal ultimiately doesn't go through.<br> <br> This course is made to give you immediate takeaways to grow your business, but will take (worthwhile) practice to ultimately master."
+    - question: "I'm interested in the full-day Startup Sales Bootcamp. What does it involve and how can I sign up?"
+      answer: "This free course is an abridged version inspired by 1 of the 4 workshops taught over a full day in the new Startup Sales Bootcamp. <br> <br>The next Startup Sales Bootcamp takes place March 14th in the Financial District, New York City. Space is limited to 5 companies so <a href='http://startupsalesbootcamp.com/?src=buyin-landingpage-belowfold'>sign up or get on the interest list for future programs</a>. "
 
 footer:
   copyright: "&copy; 2015, Startup Sales Bootcamp"

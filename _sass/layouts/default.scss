@@ -86,7 +86,7 @@ a {
       width: 100%;
     }
 
-    input[type="textbox"] {
+    input[type="text"], input[type="email"] {
       background: rgba(255,255,255,0.8);
 
       &:focus {
@@ -231,7 +231,7 @@ a {
 }
 
 .signup-form {
-  input[type="textbox"] {
+  input[type="text"], input[type="email"] {
     padding: 15px 20px;
     border-radius: 5px;
     border: 0;
